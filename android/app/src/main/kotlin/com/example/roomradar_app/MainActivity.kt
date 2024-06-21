@@ -1,4 +1,4 @@
-package com.example.roomradar_app
+package io.handysoftware.roomrader
 
 import io.flutter.embedding.android.FlutterActivity
 
